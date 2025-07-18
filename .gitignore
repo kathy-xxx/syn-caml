@@ -1,0 +1,14 @@
+mimicdata/mimic4_icd9/*.csv
+
+!mimicdata/mimic4_icd9/*_hadm_ids.csv
+!mimicdata/mimic4_icd9/vocab.csv
+!mimicdata/mimic4_icd9/TOP_50_CODES.csv
+!mimicdata/mimic4_icd9/top50_icd9_code_list.txt
+
+mimicdata/mimic4_icd10/*.csv
+
+!mimicdata/mimic4_icd10/*_hadm_ids.csv
+!mimicdata/mimic4_icd10/vocab.csv
+!mimicdata/mimic4_icd10/TOP_50_CODES.csv
+!mimicdata/mimic4_icd10/top50_icd9_code_list.txt
+
